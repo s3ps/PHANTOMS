@@ -1,12 +1,6 @@
 {
-  "10/3/2021" : {
-    "UserId" : 2299426765,
-    "Title" : "Private Update 2",
-    "Content" : "Second update content."
-  },
-  "10/2/2021" : {
-    "UserId" : 2870187252,
-    "Title" : "Private Release Today!",
-    "Content" : "Today is the private release of the PHANTOMS script project."
-  }
+  "Date" : "10/3/2021",
+  "UserId" : 2299426765,
+  "Title" : "Private Update 2",
+  "Content" : "Second update content."
 }
